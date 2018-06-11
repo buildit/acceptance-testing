@@ -32,7 +32,7 @@ Bear in mind that your solution will form the basis for a follow-up conversation
 
 Please ensure you have submitted the following:
 
-* A pubic repository (e.g. GitHub, BitBucket) containing the requirements and automated tests
+* A public repository (e.g. GitHub, BitBucket) containing the requirements and automated tests
 * A readme explaining
   * How to build and execute your solution
   * Details on anything further that you would like to achieve given more time, including any trade-offs that you may have made
